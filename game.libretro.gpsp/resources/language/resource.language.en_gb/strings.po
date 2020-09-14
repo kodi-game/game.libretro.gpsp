@@ -31,3 +31,7 @@ msgstr ""
 msgctxt "#30003"
 msgid "Frameskip variation"
 msgstr ""
+
+msgctxt "#30004"
+msgid "Backup Save Method (Restart)"
+msgstr ""
