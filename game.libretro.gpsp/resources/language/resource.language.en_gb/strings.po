@@ -21,17 +21,25 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Frameskip type"
+msgid "Color Correction"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Frameskip value"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip variation"
+msgid "Frameskip Type"
 msgstr ""
 
 msgctxt "#30004"
+msgid "Frameskip Value"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Frameskip Variation"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Backup Save Method (Restart)"
 msgstr ""
