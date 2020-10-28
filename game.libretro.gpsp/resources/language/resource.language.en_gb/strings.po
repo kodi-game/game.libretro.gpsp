@@ -29,15 +29,15 @@ msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip Type"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Frameskip Value"
+msgid "Frameskip Interval"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip Variation"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30006"
