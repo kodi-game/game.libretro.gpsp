@@ -1,0 +1,53 @@
+# game.libretro.gpsp language file
+# Addon Name: game.libretro.gpsp
+# Addon id: game.libretro.gpsp
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.gpsp\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-09-01 11:29i\n"
+"PO-Revision-Date: 2020-09-01 11:29i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sv_se\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "BIOS"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Boot mode"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Color Correction"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Interframe Blending"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Frameskip Interval"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Backup Save Method (Restart)"
+msgstr ""
