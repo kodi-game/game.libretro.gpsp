@@ -21,25 +21,33 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Color Correction"
+msgid "BIOS"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Interframe Blending"
+msgid "Boot mode"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Frameskip"
+msgid "Color Correction"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Frameskip Interval"
+msgid "Interframe Blending"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip Threshold (%)"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30006"
+msgid "Frameskip Interval"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Backup Save Method (Restart)"
 msgstr ""
