@@ -16,6 +16,16 @@ msgstr ""
 "Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (gpSP) v0.91"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "gpSP is a Game Boy Advance emulator based on notaz&#39;s fork of gpSP with additional codebase improvements.
+
+Supported files: .gba, .bin, .agb, .gbz"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

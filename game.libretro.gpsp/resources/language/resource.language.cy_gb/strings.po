@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (gpSP) v0.91"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "gpSP is a Game Boy Advance emulator based on notaz&#39;s fork of gpSP with additional codebase improvements.
+
+Supported files: .gba, .bin, .agb, .gbz"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
