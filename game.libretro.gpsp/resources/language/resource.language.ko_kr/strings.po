@@ -22,7 +22,7 @@ msgid "Nintendo - Game Boy Advance (gpSP) v0.91"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "gpSP is a Game Boy Advance emulator based on notaz&#39;s fork of gpSP with additional codebase improvements."
+msgid "gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements."
 msgstr ""
 
 msgctxt "#30000"
