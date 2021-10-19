@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (gpSP) v0.91</summary>
-		<description lang="en_GB">gpSP is a Game Boy Advance emulator based on notaz&#39;s fork of gpSP with additional codebase improvements.</description>
+		<description lang="en_GB">gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements.</description>
 	</extension>
 </addon>
