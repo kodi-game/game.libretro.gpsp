@@ -5,7 +5,7 @@
 
 ### Description
 
-gpSP is a Game Boy Advance emulator based on notaz&apos;s fork of gpSP with additional codebase improvements.
+gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements.
 
 ### License
 
