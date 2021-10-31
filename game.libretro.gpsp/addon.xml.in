@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.gpsp"
 		name="Nintendo - Game Boy Advance (gpSP)"
-		version="0.91.0.21"
+		version="0.91.0.22"
 		provider-name="Exophase">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -25,7 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (gpSP) v0.91</summary>
-		<description lang="da_DK">gpSP er en Game Boy Advance-emulator baseret på notaz's fork af gpSP med yderligere kodebaseforbedringer.</description>
-		<description lang="en_GB">gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements.</description>
+		<description lang="da_DK">gpSP er en Game Boy Advance-emulator baseret på notaz&apos;s fork af gpSP med yderligere kodebaseforbedringer.</description>
+		<description lang="en_GB">gpSP is a Game Boy Advance emulator based on notaz&apos;s fork of gpSP with additional codebase improvements.</description>
 	</extension>
 </addon>
