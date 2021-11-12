@@ -61,5 +61,9 @@ msgid "Backup Save Method (Restart)"
 msgstr ""
 
 msgctxt "#30009"
+msgid "Dynamic Recompiler"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Turbo Button Period"
 msgstr ""

@@ -62,5 +62,13 @@ msgid "Backup Save Method (Restart)"
 msgstr "Sikkerhedsmetode til at gemme (genstart)"
 
 msgctxt "#30009"
+msgid "Dynamic Recompiler"
+msgstr ""
+
+msgctxt "#30010"
 msgid "Turbo Button Period"
-msgstr "Periode for turboknap"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Turbo Button Period"
+#~ msgstr "Periode for turboknap"
