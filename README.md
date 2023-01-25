@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.gpsp/resources/icon.png)
+![Nintendo - Game Boy Advance (gpSP) icon](game.libretro.gpsp/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.gpsp/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.gpsp/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.gpsp/resources/screenshot-03.jpg)
+![Nintendo - Game Boy Advance (gpSP) screenshot](game.libretro.gpsp/resources/screenshot-01.jpg)
+![Nintendo - Game Boy Advance (gpSP) screenshot](game.libretro.gpsp/resources/screenshot-02.jpg)
+![Nintendo - Game Boy Advance (gpSP) screenshot](game.libretro.gpsp/resources/screenshot-03.jpg)
