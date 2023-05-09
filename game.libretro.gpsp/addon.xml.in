@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy Advance (gpSP)</summary>
 		<description lang="da_DK">gpSP er en Game Boy Advance-emulator baseret på notaz&apos;s fork af gpSP med yderligere kodebaseforbedringer.</description>
