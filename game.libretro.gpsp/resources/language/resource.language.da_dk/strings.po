@@ -57,10 +57,6 @@ msgctxt "#30007"
 msgid "Interframe Blending"
 msgstr "Interframe-blanding"
 
-msgctxt "#30008"
-msgid "Backup Save Method (Restart)"
-msgstr "Sikkerhedsmetode til at gemme (genstart)"
-
 msgctxt "#30009"
 msgid "Dynamic Recompiler"
 msgstr "Dynamisk recompiler"
@@ -68,6 +64,22 @@ msgstr "Dynamisk recompiler"
 msgctxt "#30010"
 msgid "Turbo Button Period"
 msgstr "Periode for turboknap"
+
+msgctxt "#30011"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30012"
+msgid "RTC support"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Rumble support"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "Backup Save Method (Restart)"
+#~ msgstr "Sikkerhedsmetode til at gemme (genstart)"
 
 #~ msgctxt "#30009"
 #~ msgid "Turbo Button Period"

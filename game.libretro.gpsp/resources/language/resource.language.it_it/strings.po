@@ -57,10 +57,6 @@ msgctxt "#30007"
 msgid "Interframe Blending"
 msgstr "Fusione tra frame"
 
-msgctxt "#30008"
-msgid "Backup Save Method (Restart)"
-msgstr "Metodo di salvataggio del backup (riavvio)"
-
 msgctxt "#30009"
 msgid "Dynamic Recompiler"
 msgstr "Ricompilatore dinamico"
@@ -68,3 +64,19 @@ msgstr "Ricompilatore dinamico"
 msgctxt "#30010"
 msgid "Turbo Button Period"
 msgstr "Periodo del pulsante turbo"
+
+msgctxt "#30011"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30012"
+msgid "RTC support"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Rumble support"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "Backup Save Method (Restart)"
+#~ msgstr "Metodo di salvataggio del backup (riavvio)"

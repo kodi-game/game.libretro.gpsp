@@ -56,14 +56,22 @@ msgctxt "#30007"
 msgid "Interframe Blending"
 msgstr ""
 
-msgctxt "#30008"
-msgid "Backup Save Method (Restart)"
-msgstr ""
-
 msgctxt "#30009"
 msgid "Dynamic Recompiler"
 msgstr ""
 
 msgctxt "#30010"
 msgid "Turbo Button Period"
+msgstr ""
+
+msgctxt "#30011"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30012"
+msgid "RTC support"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Rumble support"
 msgstr ""

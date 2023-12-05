@@ -57,10 +57,6 @@ msgctxt "#30007"
 msgid "Interframe Blending"
 msgstr "帧间混合"
 
-msgctxt "#30008"
-msgid "Backup Save Method (Restart)"
-msgstr "备份保存方法（重新启动）"
-
 msgctxt "#30009"
 msgid "Dynamic Recompiler"
 msgstr "动态重编译器"
@@ -68,3 +64,19 @@ msgstr "动态重编译器"
 msgctxt "#30010"
 msgid "Turbo Button Period"
 msgstr "Turbo 按钮周期"
+
+msgctxt "#30011"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30012"
+msgid "RTC support"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Rumble support"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "Backup Save Method (Restart)"
+#~ msgstr "备份保存方法（重新启动）"
