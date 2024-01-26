@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-gpsp (>= 0.91.0) | gpsp (>= 0.91.0)
+               libretro-gpsp (>= 1.0.0) | gpsp (>= 1.0.0)
 Standards-Version: 3.9.8
 Section: libs
 

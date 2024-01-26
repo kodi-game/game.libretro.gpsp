@@ -6,6 +6,7 @@
 		<setting label="30009" type="select" id="gpsp_drc" values="enabled|disabled" default="enabled"/>
 		<setting label="30011" type="select" id="gpsp_sprlim" values="disabled|enabled" default="disabled"/>
 		<setting label="30012" type="select" id="gpsp_rtc" values="auto|enabled|disabled" default="auto"/>
+		<setting label="30014" type="select" id="gpsp_serial" values="auto|disabled|rfu" default="auto"/>
 		<setting label="30013" type="select" id="gpsp_rumble" values="auto|enabled|disabled" default="auto"/>
 		<setting label="30003" type="select" id="gpsp_frameskip" values="disabled|auto|auto_threshold|fixed_interval" default="disabled"/>
 		<setting label="30004" type="select" id="gpsp_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
