@@ -77,6 +77,10 @@ msgctxt "#30013"
 msgid "Rumble support"
 msgstr ""
 
+msgctxt "#30014"
+msgid "Link Cable Connectivity"
+msgstr ""
+
 #~ msgctxt "#30008"
 #~ msgid "Backup Save Method (Restart)"
 #~ msgstr "Metodo di salvataggio del backup (riavvio)"
