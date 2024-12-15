@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements."
 msgstr "gpSP er en Game Boy Advance-emulator baseret på notaz's fork af gpSP med yderligere kodebaseforbedringer."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "BIOS"
 msgstr "BIOS"
@@ -80,6 +76,10 @@ msgstr ""
 msgctxt "#30014"
 msgid "Link Cable Connectivity"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30008"
 #~ msgid "Backup Save Method (Restart)"
