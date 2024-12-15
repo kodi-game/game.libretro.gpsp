@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="gpsp_bios" values="auto|builtin|official" default="auto"/>
 		<setting label="30002" type="select" id="gpsp_boot_mode" values="game|bios" default="game"/>
 		<setting label="30009" type="select" id="gpsp_drc" values="enabled|disabled" default="enabled"/>
