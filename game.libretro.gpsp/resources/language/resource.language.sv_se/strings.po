@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.gpsp\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 11:29i\n"
-"PO-Revision-Date: 2025-04-12 12:26+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-gpsp/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Game Boy Advance (gpSP)"
@@ -41,42 +41,44 @@ msgctxt "#30004"
 msgid "Frameskip Threshold (%)"
 msgstr "Tröskelvärde för bildöverhoppning (%)"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Frameskip Interval"
-msgstr ""
+msgstr "Intervall för överhoppning av bildrutor"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Color Correction"
 msgstr "Färgkorrigering"
 
 msgctxt "#30007"
 msgid "Interframe Blending"
-msgstr ""
+msgstr "Blandning mellan bildrutor"
 
 msgctxt "#30009"
 msgid "Dynamic Recompiler"
-msgstr ""
+msgstr "Dynamisk omkompilator"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Turbo-knappen Period"
 
 msgctxt "#30011"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Ingen sprite-gräns"
 
 msgctxt "#30012"
 msgid "RTC support"
-msgstr ""
+msgstr "RTC-stöd"
 
 msgctxt "#30013"
 msgid "Rumble support"
-msgstr ""
+msgstr "Rumble-stöd"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Link Cable Connectivity"
-msgstr ""
+msgstr "Anslutning av länkkabel"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
