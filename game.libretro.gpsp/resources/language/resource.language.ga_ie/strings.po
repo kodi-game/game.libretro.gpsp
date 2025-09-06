@@ -1,0 +1,79 @@
+# game.libretro.gpsp language file
+# Addon Name: game.libretro.gpsp
+# Addon id: game.libretro.gpsp
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.gpsp\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
+"POT-Creation-Date: 2020-09-01 11:29i\n"
+"PO-Revision-Date: 2020-09-01 11:29i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ga_ie\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
+"n>6 && n<11) ? 3 : 4;\n"
+
+msgctxt "Addon Summary"
+msgid "Nintendo - Game Boy Advance (gpSP)"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "gpSP is a Game Boy Advance emulator based on notaz's fork of gpSP with additional codebase improvements."
+msgstr ""
+
+# Empty string with ID 30000
+msgctxt "#30001"
+msgid "BIOS"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Boot mode"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Frameskip"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Frameskip Threshold (%)"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Frameskip Interval"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Color Correction"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Interframe Blending"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Dynamic Recompiler"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Turbo Button Period"
+msgstr ""
+
+msgctxt "#30011"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30012"
+msgid "RTC support"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Rumble support"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Link Cable Connectivity"
+msgstr ""
