@@ -28,12 +28,14 @@
 		<summary lang="en_GB">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="es_ES">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="ga">Nintendo - Game Boy Advance (gpSP)</summary>
+		<summary lang="it_IT">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="sv_SE">Nintendo - Game Boy Advance (gpSP)</summary>
 		<summary lang="zh_CN">任天堂 - Game Boy Advance (gpSP)</summary>
 		<description lang="da_DK">gpSP er en Game Boy Advance-emulator baseret på notaz&apos;s fork af gpSP med yderligere kodebaseforbedringer.</description>
 		<description lang="en_GB">gpSP is a Game Boy Advance emulator based on notaz&apos;s fork of gpSP with additional codebase improvements.</description>
 		<description lang="es_ES">gpSP es un emulador de Game Boy Advance basado en la bifurcación de notaz de gpSP con mejoras adicionales en el código base.</description>
 		<description lang="ga">Is aithriseoir Game Boy Advance é gpSP atá bunaithe ar fhorc notaz de gpSP le feabhsuithe breise ar an gcódbhunchód.</description>
+		<description lang="it_IT">gpSP è un emulatore per Game Boy Advance basato sul fork di gpSP di notaz con ulteriori miglioramenti al codice sorgente.</description>
 		<description lang="sv_SE">gpSP är en Game Boy Advance-emulator baserad på notazs fork av gpSP med ytterligare förbättringar av kodbasen.</description>
 		<description lang="zh_CN">gpSP 是一款基于 notaz 的 gpSP 分支的 Game Boy Advance 模拟器，具有额外的代码库改进。</description>
 	</extension>
