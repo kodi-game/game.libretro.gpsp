@@ -1,1 +1,1 @@
-gpsp https://github.com/libretro/gpsp/archive/d6decfa351b575e2936afebba26d41ec20e4ddcd.tar.gz
+gpsp https://github.com/libretro/gpsp/archive/2db57b11a437c4432ab69823bdcd951181de6213.tar.gz
