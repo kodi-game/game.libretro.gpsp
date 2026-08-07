@@ -79,6 +79,10 @@ msgctxt "#30014"
 msgid "Link Cable Connectivity"
 msgstr "Anslutning av länkkabel"
 
+msgctxt "#30015"
+msgid "Sound Output Rate (Hz)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
