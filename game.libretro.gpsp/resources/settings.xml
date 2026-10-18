@@ -100,7 +100,7 @@
 				</setting>
 				<setting id="gpsp_sound_rate" type="string" label="30015" help="30038">
 					<level>0</level>
-					<default>65536</default>
+					<default>32768</default>
 					<constraints>
 						<options>
 							<option>65536</option>
